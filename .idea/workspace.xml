@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3190067-ee3c-43f0-91d7-5f4311ed6d87" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/freedom.html" afterPath="$PROJECT_DIR$/app/freedom.html" />
+      <change beforePath="$PROJECT_DIR$/app/gold.html" afterPath="$PROJECT_DIR$/app/gold.html" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,15 +21,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="45" />
+            <state relative-caret-position="-974">
+              <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
               <folding>
-                <element signature="e#10616#10621#0" expanded="true" />
-                <element signature="e#10752#10757#0" expanded="true" />
-                <element signature="e#11186#11191#0" expanded="true" />
-                <element signature="e#11699#11704#0" expanded="true" />
-                <element signature="e#12801#12806#0" expanded="true" />
-                <element signature="e#24988#24994#0" expanded="true" />
+                <element signature="e#10447#10452#0" expanded="true" />
+                <element signature="e#10583#10588#0" expanded="true" />
+                <element signature="e#11017#11022#0" expanded="true" />
+                <element signature="e#11530#11535#0" expanded="true" />
+                <element signature="e#12632#12637#0" expanded="true" />
+                <element signature="e#23873#23879#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +48,8 @@
       <file leaf-file-name="gold.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/gold.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2895">
+              <caret line="192" column="15" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="192" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -56,8 +58,8 @@
       <file leaf-file-name="freedom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/freedom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="185" lean-forward="false" selection-start-line="10" selection-start-column="185" selection-end-line="10" selection-end-column="185" />
               <folding />
             </state>
           </provider>
@@ -71,8 +73,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/sitemap.xml" />
+        <option value="$PROJECT_DIR$/app/gold.html" />
+        <option value="$PROJECT_DIR$/app/freedom.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -90,8 +94,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2321" />
-    <option name="y" value="42" />
+    <option name="x" value="-2488" />
+    <option name="y" value="23" />
     <option name="width" value="1919" />
     <option name="height" value="1336" />
   </component>
@@ -168,15 +172,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517248361249</updated>
-      <workItem from="1517248363578" duration="1330000" />
+      <workItem from="1517248363578" duration="3248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1330000" />
+    <option name="totallyTimeSpent" value="3248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2321" y="42" width="1919" height="1336" extended-state="0" />
+    <frame x="-2488" y="23" width="1919" height="1336" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -221,31 +225,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/freedom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="185" lean-forward="false" selection-start-line="10" selection-start-column="185" selection-end-line="10" selection-end-column="185" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/gold.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2895">
+          <caret line="192" column="15" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="192" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="45" />
+        <state relative-caret-position="-974">
+          <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="e#10616#10621#0" expanded="true" />
-            <element signature="e#10752#10757#0" expanded="true" />
-            <element signature="e#11186#11191#0" expanded="true" />
-            <element signature="e#11699#11704#0" expanded="true" />
-            <element signature="e#12801#12806#0" expanded="true" />
-            <element signature="e#24988#24994#0" expanded="true" />
+            <element signature="e#10447#10452#0" expanded="true" />
+            <element signature="e#10583#10588#0" expanded="true" />
+            <element signature="e#11017#11022#0" expanded="true" />
+            <element signature="e#11530#11535#0" expanded="true" />
+            <element signature="e#12632#12637#0" expanded="true" />
+            <element signature="e#23873#23879#0" expanded="true" />
           </folding>
         </state>
       </provider>
